@@ -72,3 +72,7 @@ q|q|q|
 
 - [] item1
 - [x] item2
+
+- [ ] item 1
+- [x] item 2 (it’s done!)
+- [ ] item 3
