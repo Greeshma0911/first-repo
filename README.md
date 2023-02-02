@@ -71,4 +71,4 @@ q|q|q|
 |g|g|j|
 
 - [] item1
-- []item2
+- [x] item2
