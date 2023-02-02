@@ -78,3 +78,5 @@ q|q|q|
 - [ ] item 3
 
 ~~Opps, didn’t mean to do this.~~
+
+The function is $f(x) = x^2$.
