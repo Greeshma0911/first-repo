@@ -70,5 +70,5 @@ different to the merry\_go\_round.
 q|q|q|
 |g|g|j|
 
--[] item1
--[]item2
+- [] item1
+- []item2
