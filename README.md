@@ -70,9 +70,11 @@ different to the merry\_go\_round.
 q|q|q|
 |g|g|j|
 
-- [] item1
+- [ ] item1
 - [x] item2
 
 - [ ] item 1
 - [x] item 2 (it’s done!)
 - [ ] item 3
+
+~~Opps, didn’t mean to do this.~~
